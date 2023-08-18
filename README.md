@@ -13,6 +13,7 @@ you will demonstrate your proficiency in data analysis, visualization, and story
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Power BI Dashboard](#power-bi-dashboard)
+- [ Video Explanation](#videoexplanation)
 - [Contributing](#contributing)
 - [License](#license)
 

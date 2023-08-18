@@ -62,7 +62,7 @@ Explore the various visualizations and  insights derived from the dataset.
 
 To provide a more interactive and detailed explanation of the visualizations and insights in this report, 
 a video has been created that walks through the different components of the report. 
-link :
+link : https://www.kapwing.com/videos/64df7630faaf54001d392d5a
 
 
 ## Contributing
